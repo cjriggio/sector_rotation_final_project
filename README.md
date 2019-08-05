@@ -1,4 +1,5 @@
-# The Question:
+# How to Make More Money Than The Average Bear
+## The Question:
 Can machine learning or a known trading algorithm imporve upon the performance of the S&P 500 by only investing in a small subset of the sectors that comprise this benchmark equity index?
 ## The Data 
 - Stock data from Yahoo Finance on the S&P 500 and 9 sectors 

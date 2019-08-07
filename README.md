@@ -14,6 +14,9 @@ Can machine learning or a known trading algorithm imporve upon the performance o
   - XLV: Health Care
   - XLY: Consumer Discretionary 
   - XLU: Utilities 
+  
+  **An approximate breakdown of sector allocation**
+ ![Sectors](Images/Sector-Allocation-SPY.png)
 ## Sector Rotation and Rebalncing
  - Sector rotation is an investment strategy that involves moving money from one industry sector to another. In this case based on a weighted score from our trading algorithm or the best predicted monthly return based on our LSTM model.
 - Rebalancing involves investing the same amount of money in a number of sectors and then selling the ETFs at the end of each month and using the capital to buy equal amounts in each of the sectors.  

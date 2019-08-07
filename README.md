@@ -26,7 +26,7 @@ Can machine learning or a known trading algorithm imporve upon the performance o
 - Testing Data: Daily Returns 1/2/2019 - 7/1/2019
 
 The actual daily returns from the test data vs the predictions for the S&P 500. As you can see the model fails to capture the everyday volatility of the stock market but seems to be able to follow the overall trend with some accuracy. 
+![SPY](Images/SPY-returns.png)
 
-
-The daily returns aggregated into monthly returns on the last trading day of the month. As you can see the prediction is off by less than 2% in all cases and always captures the correct direction. 
+The daily returns aggregated into monthly returns on the last trading day of the month. As you can see the prediction is off by less than 2% in all cases and always captures the correct direction of the market. 
 ![Monthly](Images/monthly_preds.png)

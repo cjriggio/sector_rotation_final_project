@@ -29,6 +29,7 @@ The actual daily returns from the test data vs the predictions for the S&P 500. 
 ![SPY](Images/SPY-returns.png)
 
 The daily returns are aggregated into monthly returns on the last trading day of the month. As you can see the prediction is off by less than 2% in all cases. 
+
 ![Monthly](Images/monthly_preds.png)
 
 ## Backtesting Results:

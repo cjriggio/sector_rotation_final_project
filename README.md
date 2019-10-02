@@ -32,8 +32,7 @@ The daily returns aggregated into monthly returns on the last trading day of the
 ![Monthly](Images/monthly_preds.png)
 
 ## Backtesting Results:
-The backtesting section of this project is still under construction, however I have provided my results in an Excel spreadsheet. The final figure resulting from a $100,000 investment ranging from January 2, 2019 to June 28, 2019 is high lighted in red at the bottom for each of the following strategies:
+The backtesting section of this project is still under construction, however I have provided my results in an Excel spreadsheet. The final figure resulting from a $100,000 investment ranging from January 2, 2019 to June 28, 2019 for each of the following strategies:
   - Investment in a S&P 500 ETF
-  - Investment in top 2 sectors determined by weight monthly scores
   - Investment in top 2 sectors determined by LSTM model 
-![Results](Images/benchmark_results.png)
+![Results](Images/LSTM-benchmark.png)
